@@ -168,8 +168,26 @@
         </nav>
 
         <div class="flex-center position-ref" style="padding-top:150px;">           
-            <div class="content">
-                
+            <div class="content" style="background-color:white; color:black;">
+            Essence laundry is a personal and commercial drop off laundry facility located in Yangon. 
+            
+            <h3> Vision </h3><br>
+            &nbsp &nbsp Deliver high quality and cost effective commercial laundry services in a clean and customer oriented environment.
+            <br>
+            <h3> Mission </h3><br>
+            To provide exceptional commercial laundry operations to our customers by delivering superior quality and service.
+            &nbsp &nbsp Essence laundry aims to deliver high quality and cost effective commercial laundry services in a clean and customer oriented environment. Is your business in need of our commercial laundry service? 
+            <br>
+            <p> Essence laundry offers a quick and convenient Wash-Dry-Fold laundry service for standard personal laundry such as clothing, sheets and towels. We also accept specialty laundry items such as comforters, bedspreads, quilts, sleeping bags and more. <br> Our current rate per piece is 500 kyats. </p>
+            <br>
+            We offer pick-up and delivery services for personal and commercial customers in Yangon. Click here to schedule your pick up or delivery!
+            <br>
+            WHY CHOOSE US? <br>
+            	Reasonable price <br>
+            	Easy to use Website <br>
+            	Time Saving <br>
+            	Professional Quality <br>
+
             </div>
         </div>
     </div>

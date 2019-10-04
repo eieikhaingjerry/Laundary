@@ -167,9 +167,19 @@
             </div>
         </nav>
 
-        <div class="flex-center position-ref" style="padding-top:150px;">           
+        <div class="flex-center position-ref" style="padding-top:50px;">           
             <div class="content">
-                
+                <p style="color:black;">
+                    <h3> Address: </h3> <br>
+                    No.18(B), Sakura Tower, Yangon, Myanmar. <br> <br>
+                    <h3> Phone: </h3> <br>
+                    +959 443 737 323 <br> <br>
+                    <h3> E-mail: </h3> <br>
+                    laundary@gmail.com <br> <br>
+                </p>
+                <hr>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3819.9514976959736!2d96.15717961434545!3d16.779088524480688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30c1ec8420713bad%3A0x888f94c10d681c8d!2sSakura%20Tower%2C%20339%20Bo%20Gyoke%20Rd%2C%20Yangon!5e0!3m2!1sen!2smm!4v1570208845700!5m2!1sen!2smm" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                <hr>
             </div>
         </div>
     </div>
